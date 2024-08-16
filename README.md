@@ -2,24 +2,24 @@
 
 ## :blue_book: 概要
 
-**開発** Flutter
+**開発** Flutter  
 **google_generative_ai** 0.4.4 (2024/8)
 
-<img src='img/img0.png' width=70%>
+<img src='img/img0.png' width=60%>
 
 ## :blue_book: Google AI Studio で API key を取得
 
-個人で使う分には無料枠で十分です。
-Gemini 1.5 Flash 無料枠
-15 RPM（１分あたりのリクエスト数）
-100 万 TPM（１分あたりのトークン数）
-1,500 RPD（１日あたりのリクエスト数）
+個人で使う分には無料枠で十分です。  
+Gemini 1.5 Flash 無料枠  
+15 RPM（１分あたりのリクエスト数）  
+100 万 TPM（１分あたりのトークン数）  
+1,500 RPD（１日あたりのリクエスト数）  
 1 時間あたり最大 100 万トークンのストレージが無料
 
-<img src='img/img1.png' width=70%>
+<img src='img/img1.png' width=60%>
 https://aistudio.google.com/app/apikey
 
-左上にある (Get API key) を押します。
+左上にある (Get API key) を押します。  
 注意：API_KEY は Github に保存しないでください。
 
 ### ソースコードの一部
